@@ -3,6 +3,7 @@
 body {
   background-image: url(../5291450.jpg);
   background-size: cover;
+  background-repeat: repeat-y;
   font-family: "Outfit", sans-serif;
 }
 
