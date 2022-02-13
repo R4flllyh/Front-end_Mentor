@@ -49,3 +49,9 @@ body {
 .attribution {
   font-family: "Outfit";
 }
+
+@media (max-width: 662px) {
+  .container {
+    height: 555px;
+  }
+}
