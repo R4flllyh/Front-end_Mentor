@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap");
 
 body {
-  background-image: url(5291450.jpg);
+  background-image: url(../5291450.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   font-family: "Outfit", sans-serif;
@@ -17,7 +17,6 @@ body {
 }
 
 .card {
-  height: 29rem;
 }
 
 .container .card {
